@@ -19,7 +19,15 @@ __pycache__/
 *.pyc
 
 # Datos del proyecto
-data/
+# Datos administrados por DVC
+data/**
+!data/
+!data/raw/
+!data/processed/
+!data/raw/*.dvc
+!data/processed/*.dvc
+!data/raw/.gitignore
+!data/processed/.gitignore
 
 # Modelos entrenados
 models/

@@ -1,0 +1,5 @@
+outs:
+- md5: 703cd72d9484d52b6691e8b4e02aea4e
+  size: 4600261
+  hash: md5
+  path: mcu.csv
