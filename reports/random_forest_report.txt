@@ -1,0 +1,74 @@
+                       precision    recall  f1-score   support
+
+        ADRIAN TOOMES       0.19      0.16      0.17        19
+      ALDRICH KILLIAN       0.00      0.00      0.00        12
+     ALEXANDER PIERCE       0.20      0.08      0.12        12
+         BRUCE BANNER       0.23      0.13      0.17        76
+         BUCKY BARNES       0.12      0.18      0.15        22
+        CAROL DANVERS       0.10      0.06      0.08        47
+         CLINT BARTON       0.11      0.08      0.09        37
+COL. CHESTER PHILLIPS       0.29      0.17      0.21        12
+          DARCY LEWIS       0.17      0.20      0.18        20
+         DARREN CROSS       0.05      0.09      0.07        11
+                 DRAX       0.00      0.00      0.00        22
+                  EGO       0.14      0.09      0.11        11
+          ERIK SELVIG       0.19      0.12      0.15        25
+         EVERETT ROSS       0.07      0.08      0.07        13
+              FANDRAL       0.00      0.00      0.00        11
+               FRIGGA       0.07      0.08      0.07        13
+               GAMORA       0.17      0.17      0.17        35
+             HANK PYM       0.18      0.10      0.13        29
+          HAPPY HOGAN       0.02      0.03      0.02        32
+        HARLEY KEENER       0.00      0.00      0.00        11
+             HEIMDALL       0.00      0.00      0.00        11
+        HOPE VAN DYNE       0.00      0.00      0.00        18
+         HOWARD STARK       0.16      0.25      0.19        12
+         JAMES RHODES       0.29      0.11      0.16        64
+          JANE FOSTER       0.27      0.15      0.19        47
+               JARVIS       0.47      0.67      0.55        27
+        JUSTIN HAMMER       0.29      0.25      0.27        16
+                KAREN       0.29      0.31      0.30        13
+           LIZ TOOMES       0.00      0.00      0.00        14
+                 LOKI       0.15      0.12      0.14        65
+                 LUIS       0.17      0.18      0.17        17
+               MANTIS       0.18      0.15      0.17        13
+           MARIA HILL       0.00      0.00      0.00        16
+          MAYA HANSEN       0.00      0.00      0.00        13
+N'JADAKA (KILLMONGER)       0.00      0.00      0.00        11
+                NAKIA       0.00      0.00      0.00        14
+     NATASHA ROMANOFF       0.15      0.08      0.10       100
+               NEBULA       0.08      0.13      0.10        15
+            NED LEEDS       0.19      0.11      0.14        27
+            NICK FURY       0.17      0.10      0.12        73
+        OBADIAH STANE       0.00      0.00      0.00        10
+                 ODIN       0.30      0.26      0.28        27
+                OKOYE       0.00      0.00      0.00        13
+         PEGGY CARTER       0.08      0.05      0.06        19
+         PEPPER POTTS       0.17      0.10      0.13        88
+         PETER PARKER       0.33      0.27      0.30       110
+          PETER QUILL       0.22      0.13      0.16        55
+         PHIL COULSON       0.21      0.14      0.17        22
+            RED SKULL       0.14      0.09      0.11        11
+               ROCKET       0.12      0.09      0.10        43
+           SAM WILSON       0.29      0.17      0.21        35
+           SCOTT LANG       0.22      0.08      0.11        65
+                SHURI       0.31      0.21      0.25        19
+                  SIF       0.00      0.00      0.00        12
+      STEPHEN STRANGE       0.00      0.00      0.00        15
+         STEVE ROGERS       0.21      0.18      0.19       196
+             T'CHALLA       0.30      0.24      0.26        34
+                TALOS       0.00      0.00      0.00        12
+               THANOS       0.25      0.14      0.18        22
+                 THOR       0.21      0.18      0.20       173
+           TONY STARK       0.25      0.37      0.30       358
+               ULTRON       0.09      0.06      0.07        16
+             VALKYRIE       0.05      0.06      0.05        18
+               VISION       0.16      0.20      0.18        15
+             VOLSTAGG       0.23      0.21      0.22        14
+       WANDA MAXIMOFF       0.02      0.24      0.04        21
+             YON-ROGG       0.43      0.43      0.43        14
+                YONDU       0.29      0.14      0.19        14
+
+             accuracy                           0.17      2507
+            macro avg       0.15      0.12      0.13      2507
+         weighted avg       0.19      0.17      0.17      2507
