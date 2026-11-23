@@ -23,3 +23,7 @@ También incluye un modelo BERT pequeño para comparar diferentes enfoques de cl
 ## Dataset
 
 Se utiliza un conjunto de diálogos del Universo Cinematográfico de Marvel.
+
+## Modelo SVM
+
+Se implementó un modelo Support Vector Machine (SVM) utilizando TF-IDF para transformar los diálogos en características numéricas y clasificar los personajes del Universo Cinematográfico de Marvel.
