@@ -17,3 +17,9 @@ mlartifacts/
 # Archivos temporales de Python
 __pycache__/
 *.pyc
+
+# Datos del proyecto
+data/
+
+# Modelos entrenados
+models/
