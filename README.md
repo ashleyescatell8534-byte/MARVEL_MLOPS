@@ -27,3 +27,7 @@ Se utiliza un conjunto de diálogos del Universo Cinematográfico de Marvel.
 ## Evaluación de modelos
 
 Los modelos se evaluaron mediante métricas de Accuracy, Precision, Recall y F1-score. Estas métricas permiten comparar el rendimiento de los algoritmos utilizados en la clasificación de diálogos.
+
+## Modelo SVM
+
+Se implementó un modelo Support Vector Machine (SVM) utilizando TF-IDF para transformar los diálogos en características numéricas y clasificar los personajes del Universo Cinematográfico de Marvel.
