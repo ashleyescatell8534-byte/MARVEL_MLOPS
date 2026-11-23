@@ -23,3 +23,7 @@ También incluye un modelo BERT pequeño para comparar diferentes enfoques de cl
 ## Dataset
 
 Se utiliza un conjunto de diálogos del Universo Cinematográfico de Marvel.
+
+## Evaluación de modelos
+
+Los modelos se evaluaron mediante métricas de Accuracy, Precision, Recall y F1-score. Estas métricas permiten comparar el rendimiento de los algoritmos utilizados en la clasificación de diálogos.
