@@ -1,0 +1,16 @@
+﻿FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY requirements-api.txt /app/requirements-api.txt
+RUN pip install --no-cache-dir -r /app/requirements-api.txt
+
+COPY app.py /app/app.py
+COPY src /app/src
+COPY static /app/static
+COPY models/logistic_regression_airflow.joblib /app/models/logistic_regression_airflow.joblib
+
+ENV PORT=8000
+EXPOSE 8000
+
+CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port "]
